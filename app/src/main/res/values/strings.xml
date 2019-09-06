@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">College Management</string>
+    <string name="createuser">CREATE USER</string>
+    <string name="login_user_hint">User Name</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+
+    <string-array name="student_type">
+        <item>Select Type of Student</item>
+        <item>regular</item>
+        <item>lateral_entry</item>
+    </string-array>
+
+    <string-array name="role_type">
+        <item>Select Type of Role</item>
+        <item>student</item>
+        <item>admin</item>
+        <item>faculty</item>
+    </string-array>
+
+    <string-array name="branch">
+        <item>Select Branch</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>MECH</item>
+        <item>CIVIL</item>
+    </string-array>
+
+</resources>
